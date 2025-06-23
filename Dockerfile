@@ -2,9 +2,9 @@
 FROM python:3.10-slim
 
 # Set the working directory in the container
-WORKDIR /adani-power-coal
+WORKDIR /cement-weather
 # Copy the current directory contents into the container 
-COPY . /adani-power-coal
+COPY . /cement-weather
 
 # Copy the requirements file to the container
 COPY requirements.txt .
