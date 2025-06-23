@@ -1,0 +1,13 @@
+__pycache__
+.venv
+files
+.DS_Store 
+Inputs.xlsx 
+Code_ortool_21_11_24.py
+Results_ortools.xlsx
+result
+lp_file2.lp
+weather/venv
+.vscode
+venv
+myenv
